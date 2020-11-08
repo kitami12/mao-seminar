@@ -6,6 +6,8 @@ https://elmas3.github.io/mao-seminar/
 #メンバ
 わかば
 きたみ
+山田
+一郎
 
 # ディレクトリ構成
 ```
